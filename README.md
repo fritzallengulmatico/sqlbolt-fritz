@@ -98,7 +98,7 @@ A mailing list of an illegal online service was sent to the SQLPD hot-line. Plea
 
 SELECT *
 FROM mailing_list
-ORDER BY Surname ASC
+ORDER BY Surname ASC;
 
 -----
 
